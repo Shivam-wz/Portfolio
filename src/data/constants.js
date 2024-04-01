@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Shivam-wz",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1seQGvpnCgD02eBovQnKgIE-fX8Dv3AAs/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shivam-singh-b4532b192/",
 };
 
@@ -135,7 +135,7 @@ export const experiences = [
     role: "Frontend Engineer Intern",
     company: "Coriolis Technology ",
     date: "Oct 2023 - Dec 2023",
-    desc: "Working on the frontend of the web application using ReactJS, Redux Toolkit and Material UI.",
+    desc: "Boosted website functionality and design quality by 20% through collaborative code reviews and team effort. Implemented key features like user registration and course catalogs , driving a 25% rise in user registration. Enhancing website load time by 15% via performance optimization and best practices.",
     skills: [
       "ReactJS",
       "Redux",
