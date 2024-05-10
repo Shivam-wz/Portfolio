@@ -130,15 +130,7 @@ export const skills = [
 
 export const experiences = [
  
-  {
-    id: 1,
-    img: "https://www.gamerji.com/img/logo.png",
-    role: "React developer",
-    company: "Gamerji",
-    date: "March 2023 - Aug 2023",
-    desc: "Integrated 100+ backendApi, ensuring seamless app functionality and Implemented critical modules like Scrim tournament and user profile",
-    skills: ["React", "Tailwind CSS", "JavaScript", "Node Js", " Next Js"],
-  },
+
 
   {
     id: 2,
