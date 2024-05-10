@@ -12,7 +12,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1seQGvpnCgD02eBovQnKgIE-fX8Dv3AAs/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shivam-singh-b4532b192/",
-};
+}
 
 export const skills = [
   {
@@ -129,23 +129,7 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
-    id: 0,
-    img: "https://lh3.googleusercontent.com/BxgeS6CmBWO3E8L_RJqigJjoZcZVcC4sI5wf8435NlqMRQczaMs6K4PDyhazZJvOglZj=s85",
-    role: "Frontend Engineer Intern",
-    company: "Coriolis Technology ",
-    date: "Oct 2023 - Dec 2023",
-    desc: "Boosted website functionality and design quality by 20% through collaborative code reviews and team effort. Implemented key features like user registration and course catalogs , driving a 25% rise in user registration. Enhancing website load time by 15% via performance optimization and best practices.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-  },
+ 
   {
     id: 1,
     img: "https://www.gamerji.com/img/logo.png",
